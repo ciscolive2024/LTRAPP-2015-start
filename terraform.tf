@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "YOUR_TERRAFORM_CLOUD_ORGANIZATION"
+    organization = "ciscolive2024"
 
     workspaces {
-      name = "YOUR__TERRAFORM_CLOUD_WORKSPACE_testsupdate"
+      name = "LTRAPP-2015-99"
     }
   }
 
